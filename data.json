@@ -108,6 +108,13 @@
 			"github": "metafizzy/isotope"
 		},
 		{
+			"name": "Jquery",
+			"author": "Jquery Team",
+			"url": "https://jquery.com",
+			"description": "jQuery is a fast, small, and feature-rich JavaScript library.",
+			"github": "jquery/jquery"
+		}
+		{
 			"name": "lazysizes",
 			"author": "Alexander Farkas",
 			"url": "https://afarkas.github.io/lazysizes/",
